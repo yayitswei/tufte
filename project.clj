@@ -11,7 +11,7 @@
                 *assert*             true}
 
   :dependencies
-  [[org.clojure/clojure "1.7.0"]
+  [[org.clojure/clojure "1.6.0"]
    [com.taoensso/encore "2.93.0"]]
 
   :plugins
